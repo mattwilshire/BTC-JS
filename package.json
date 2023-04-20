@@ -10,6 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "bitcoinjs-lib": "^4.0.3"
+    "bitcoinjs-lib": "^4.0.3",
+    "prompt-sync": "^4.2.0",
+    "request-promise": "^4.2.6"
   }
 }

@@ -26,14 +26,18 @@ Removing api from the url gives you the UI.
 ### Live ###
 https://blockstream.info/api/address/{address}
 
-https://blockstream.info/api/address/{address}/txs
+Transactions: https://blockstream.info/api/address/{address}/txs
+
+Unspent Transactions: https://blockstream.info/api/address/{address}/utxo
 
 Broadcast Transaction: https://blockstream.info/api/tx
 
 ### Test
 https://blockstream.info/testnet/api/address/{address}
 
-https://blockstream.info/testnet/api/address/{address}/txs
+Transactions: https://blockstream.info/testnet/api/address/{address}/txs
+
+Unspent Transactions: https://blockstream.info/testnet/api/address/{address}/utxo
 
 Broadcast Transaction: https://blockstream.info/testnet/api/tx
 
